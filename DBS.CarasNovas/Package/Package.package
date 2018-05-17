@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b1ef1171-8b94-471e-9041-2f7f2c9fd692" solutionId="b1ef1171-8b94-471e-9041-2f7f2c9fd692" resetWebServer="false" name="DBS.CarasNovas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="2dd5c790-c2d6-45a6-8cb3-965857778ac5" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="771e2844-fd05-4346-a4e6-b92bd70080ee" />
+    <projectItemReference itemId="39982094-e05f-40d5-8e2d-427c9e2aacca" />
+  </projectItems>
+</package>

@@ -1,0 +1,40 @@
+﻿.lblNomeResumido
+{
+    font-weight:bold;
+}
+.valorCampo
+{
+    font-size:11px;
+}
+.nomeCampo
+{
+    font-weight:bold;
+}
+.NomeColuna
+{
+    width: 48px;
+}
+
+.dadosColuna
+{
+    width: 80px;
+}
+
+.ColunaImagem
+{
+    width:90px;
+}
+.coluna2
+{
+    width: 80px;
+}
+.imgFuncionario
+{
+    height:116px;
+    width:104px;
+}
+
+ .ColunaEsquerda
+ {
+     width:150px;
+ }
